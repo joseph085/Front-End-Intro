@@ -1,0 +1,35 @@
+h1{
+color : red;   background-color  : green} 
+header {
+
+    background-color: tomato;
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+
+
+    
+}
+ul { 
+    display: flex;
+    list-style: none;
+    letter-spacing: 5px;
+    padding-right: 30px;
+    gap: 20px;
+
+}
+
+li {
+    background-color: yellowgreen;
+    cursor: pointer;
+}
+
+button {
+ padding: 10px 20px 10px 20px;
+ border-radius: 10px;
+
+}
+
+
+  
+
